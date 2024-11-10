@@ -1,0 +1,16 @@
+.footer{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px ;
+    align-items: center;
+}
+
+.icon{
+    font-size: 30px;
+}
+.footer a{
+    transition-duration: 0.3s;
+}
+.footer a:hover{
+    color: #6CF8FC;
+}
